@@ -1,0 +1,32 @@
+.texto__menor{
+    font-size: 13px;
+}
+
+.divs-facilidades{
+    width: 325px;
+}
+
+.botao-lilas {
+    background-color: #9353FF;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+
+.posicao{
+    top: 60%;
+}
+
+.texto__car{
+    font-family:cursive;
+    color:antiquewhite;
+    text-decoration:overline;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
